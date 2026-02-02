@@ -13,4 +13,4 @@ def are_balanced(expression):
     return len(stack) == 0
 
 expr = "((a + b) * (c - d))"
-print(f"Balanced: {are_balanced(expr)}")
+print(f"Balanced: {are_balanced(expr)}")   

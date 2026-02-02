@@ -9,4 +9,4 @@ def is_prime(n):
             return False
     return True
 
-print(f"Is 17 prime? {is_prime(17)}")
+print(f"Is 17 prime? {is_prime(17)}")    

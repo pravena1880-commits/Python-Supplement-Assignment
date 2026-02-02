@@ -9,4 +9,4 @@ def remove_adjacent_duplicates(text):
     return "".join(result)
 
 s = "programming"
-print(f"After removal: {remove_adjacent_duplicates(s)}")
+print(f"After removal: {remove_adjacent_duplicates(s)}")   

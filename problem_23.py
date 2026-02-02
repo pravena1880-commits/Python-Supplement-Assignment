@@ -9,4 +9,4 @@ for num in numbers:
         positive += 1
     else:
         negative += 1
-print(f"Positive: {positive}, Negative: {negative}")
+print(f"Positive: {positive}, Negative: {negative}")  

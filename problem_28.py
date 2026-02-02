@@ -6,4 +6,4 @@ b = 20
 temp = a
 a = b
 b = a
-print(f"a = {a}, b = {b}")
+print(f"a = {a}, b = {b}")   

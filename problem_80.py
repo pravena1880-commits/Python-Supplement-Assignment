@@ -12,4 +12,4 @@ def find_mode(lst):
             return key
 
 numbers = [1, 2, 2, 3, 3, 3, 4]
-print(f"Mode: {find_mode(numbers)}")
+print(f"Mode: {find_mode(numbers)}")   

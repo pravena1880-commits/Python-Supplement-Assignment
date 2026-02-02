@@ -12,3 +12,5 @@ def roman_to_int(s):
     return total
 
 print(f"XIV = {roman_to_int('XIV')}")
+print(f"IX = {roman_to_int('IX')}")
+print(f"MCMXCIV = {roman_to_int('MCMXCIV')}")   

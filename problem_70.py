@@ -13,4 +13,4 @@ def find_primes(n):
             primes.append(num)
     return primes
 
-print(f"Primes up to 20: {find_primes(20)}")
+print(f"Primes up to 20: {find_primes(20)}")   

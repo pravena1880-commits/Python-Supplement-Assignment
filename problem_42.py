@@ -5,4 +5,5 @@ words = ["Hello", "World", "Python"]
 sentence = ""
 for word in words:
     sentence += word + " "
-print(f"Sentence: {sentence}")
+    sentence = sentence.strip()
+print(f"Sentence: {sentence}") 

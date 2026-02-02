@@ -8,4 +8,4 @@ def is_sorted(lst):
     return True
 
 numbers = [1, 2, 3, 4, 5]
-print(f"Is sorted: {is_sorted(numbers)}")
+print(f"Is sorted: {is_sorted(numbers)}")    

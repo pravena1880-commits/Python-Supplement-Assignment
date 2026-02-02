@@ -14,4 +14,4 @@ def max_difference(arr):
     return max_diff
 
 numbers = [7, 1, 5, 3, 6, 4]
-print(f"Max difference: {max_difference(numbers)}")
+print(f"Max difference: {max_difference(numbers)}")   

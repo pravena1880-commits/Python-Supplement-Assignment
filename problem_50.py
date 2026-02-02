@@ -4,8 +4,8 @@
 text = "python programming"
 uppercase = ""
 for char in text:
-    if char >= 'a' and char <= 'z':
-        uppercase += chr(ord(char) - 32)
+    if 'a' <= char <= 'z':
+           uppercase += chr(ord(char) - 32)
     else:
         uppercase += char
-print(f"Uppercase: {uppercase}")
+print(f"Uppercase: {uppercase}")   

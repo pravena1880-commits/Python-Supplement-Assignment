@@ -7,8 +7,9 @@ def find_duplicates(lst):
     for item in lst:
         if item in seen:
             duplicates.append(item)
-        seen.add(item)
+        else:
+            seen.add(item)
     return duplicates
 
 numbers = [1, 2, 3, 2, 4, 3, 5]
-print(f"Duplicates: {find_duplicates(numbers)}")
+print(f"Duplicates: {find_duplicates(numbers)}")   

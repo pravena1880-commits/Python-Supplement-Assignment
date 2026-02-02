@@ -10,4 +10,4 @@ def pascals_triangle(n):
         triangle.append(row)
     return triangle
 
-print(f"Pascal's triangle (5 rows): {pascals_triangle(5)}")
+print(f"Pascal's triangle (5 rows): {pascals_triangle(5)}")   

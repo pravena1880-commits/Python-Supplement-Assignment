@@ -12,4 +12,4 @@ def selection_sort(arr):
     return arr
 
 numbers = [64, 25, 12, 22, 11]
-print(f"Sorted: {selection_sort(numbers)}")
+print(f"Sorted: {selection_sort(numbers)}")   
